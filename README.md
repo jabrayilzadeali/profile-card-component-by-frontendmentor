@@ -15,9 +15,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
     - [What I learned](#what-i-learned)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+- Challenge is to build the design in any technology you know. Thank you FrontEndMentor for providing this design!!
 
 ### The challenge
 
@@ -25,12 +24,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop](screenshot/desktop.png)
+![mobile](screenshot/mobile.png)
 
 
 ### Links
 
-- FrontEndMentor profile: [here](https://www.frontendmentor.io/solutions/profile-card-component-YPAKQMiDWJ)
+- FrontEndMentor profile: [here](https://www.frontendmentor.io/solutions/profilecardcomponent-qQLu5YMt-6)
 - You can view the site: [here](https://jabrayilzadeali.github.io/profile-card-component-by-frontendmentor/)
 
 
@@ -45,7 +45,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -321,13 +320,6 @@ width: 550px;
 
 
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-
 
 ## Author
 
